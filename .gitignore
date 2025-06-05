@@ -34,4 +34,4 @@ node_modules/
 # Hugging Face + Models
 .cache/
 .huggingface/
-models/
+# models/
