@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Virtual Envs
+grocery_env/
+.venv/
+
+# OS/system
+.DS_Store
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# FastAPI/Build
+.env
+*.sqlite3
+*.db
+*.bak
+
+# Docker
+*.pid
+*.sock
+docker-compose.override.yml
+
+# Node
+node_modules/
+
+# Hugging Face + Models
+.cache/
+.huggingface/
+models/

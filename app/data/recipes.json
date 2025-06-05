@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Poha",
+    "ingredients": ["flattened rice", "onion", "mustard seeds", "turmeric", "peas"],
+    "steps": [
+      "Soak the poha and drain excess water.",
+      "Heat oil, add mustard seeds and let them splutter.",
+      "Add onions, peas, turmeric, sauté well.",
+      "Mix in the soaked poha and cook for 3-5 minutes."
+    ],
+    "category": "Breakfast",
+    "prep_time": 10,
+    "cook_time": 10,
+    "tags": ["Indian", "vegetarian", "quick"]
+  },
+  {
+    "title": "Tomato Pasta",
+    "ingredients": ["pasta", "tomato", "onion", "garlic", "olive oil"],
+    "steps": [
+      "Boil pasta until al dente.",
+      "Prepare sauce with olive oil, garlic, onion, and tomato.",
+      "Mix pasta with sauce and simmer for 2 minutes."
+    ],
+    "category": "Main Course",
+    "prep_time": 10,
+    "cook_time": 20,
+    "tags": ["Italian", "vegetarian"]
+  },
+  {
+    "title": "Grilled Paneer Salad",
+    "ingredients": ["paneer", "lettuce", "tomato", "olive oil", "lemon juice"],
+    "steps": [
+      "Grill paneer cubes until golden.",
+      "Toss veggies with olive oil and lemon juice.",
+      "Top with grilled paneer and serve."
+    ],
+    "category": "Salad",
+    "prep_time": 15,
+    "cook_time": 5,
+    "tags": ["vegetarian", "healthy"]
+  },
+  {
+    "title": "Banana Oat Smoothie",
+    "ingredients": ["banana", "oats", "milk", "honey"],
+    "steps": [
+      "Blend all ingredients until smooth.",
+      "Serve chilled."
+    ],
+    "category": "Beverage",
+    "prep_time": 5,
+    "cook_time": 0,
+    "tags": ["quick", "healthy", "vegetarian"]
+  },
+  {
+    "title": "Stuffed Paratha",
+    "ingredients": ["wheat flour", "potato", "onion", "coriander", "spices"],
+    "steps": [
+      "Make dough from wheat flour.",
+      "Prepare stuffing with mashed potato and spices.",
+      "Roll parathas, stuff, and cook on pan until golden brown."
+    ],
+    "category": "Breakfast",
+    "prep_time": 20,
+    "cook_time": 15,
+    "tags": ["Indian", "vegetarian"]
+  },
+  {
+    "title": "Chickpea Salad",
+    "ingredients": ["chickpeas", "cucumber", "onion", "lemon juice", "mint"],
+    "steps": [
+      "Boil chickpeas if not canned.",
+      "Mix with chopped vegetables and mint.",
+      "Add lemon juice and salt to taste."
+    ],
+    "category": "Salad",
+    "prep_time": 10,
+    "cook_time": 5,
+    "tags": ["vegan", "protein", "healthy"]
+  },
+  {
+    "title": "Spinach Dal",
+    "ingredients": ["toor dal", "spinach", "onion", "tomato", "mustard seeds", "garlic"],
+    "steps": [
+      "Boil dal with spinach until soft.",
+      "Prepare tempering with mustard seeds, garlic, onion, tomato.",
+      "Mix tempering into dal and simmer for 5 minutes."
+    ],
+    "category": "Main Course",
+    "prep_time": 15,
+    "cook_time": 20,
+    "tags": ["Indian", "protein", "vegetarian"]
+  },
+  {
+    "title": "Masala Omelette",
+    "ingredients": ["eggs", "onion", "tomato", "chili", "salt", "turmeric"],
+    "steps": [
+      "Whisk eggs with spices and chopped veggies.",
+      "Cook on medium heat until firm."
+    ],
+    "category": "Breakfast",
+    "prep_time": 5,
+    "cook_time": 5,
+    "tags": ["quick", "protein"]
+  },
+  {
+    "title": "Rice & Mixed Veg Curry",
+    "ingredients": ["rice", "carrot", "peas", "beans", "onion", "curry powder"],
+    "steps": [
+      "Boil rice.",
+      "Prepare curry with vegetables and spices.",
+      "Serve curry over rice."
+    ],
+    "category": "Main Course",
+    "prep_time": 15,
+    "cook_time": 20,
+    "tags": ["vegetarian", "meal"]
+  },
+  {
+    "title": "Fruit Yogurt Bowl",
+    "ingredients": ["yogurt", "banana", "apple", "honey", "granola"],
+    "steps": [
+      "Chop fruits and add to yogurt.",
+      "Top with granola and drizzle with honey."
+    ],
+    "category": "Snack",
+    "prep_time": 5,
+    "cook_time": 0,
+    "tags": ["healthy", "vegetarian", "quick"]
+  }
+]
